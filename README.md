@@ -1,6 +1,8 @@
 # ZeroCord
 Official source code for ZeroCord Discord bot
-
+<center><a href="https://top.gg/bot/658294671167979570" >
+  <img src="https://top.gg/api/widget/658294671167979570.svg" alt="ZeroCord" />
+</a></center>
 <hr>
 
 ## Developers
