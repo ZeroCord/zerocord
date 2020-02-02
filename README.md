@@ -3,11 +3,11 @@
 <center> <h1> ZeroCord </h1> </center>
  </head>
   </body>
-   <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
+   <a href="https://heroku.com/deploy?template=https://github.com/ZeroCord/zerocord">
     <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
   </a>
 
-  <a href="https://github.com/kyb3r/modmail/">
+  <a href="https://github.com/ZeroCord/zerocord/">
     <img src="https://api.logviewer.tech/badges/instances.svg" alt="Bot instances">
   </a>
 
@@ -42,7 +42,7 @@ Official source code for ZeroCord Discord bot
 
 ## Developers
 
-- **Tragedyy** - Javascript - [trageddy](https://github.com/trageddyy)
+- **Noah** - Javascript - [noahh69](https://github.com/noahh69)
 
 You can see the list of [contributors](https://github.com/ZeroCord/zerocord/contributors/) who helped in this repo.
 
